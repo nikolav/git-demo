@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolav/git-demo.git"
+  },
+  "keywords": [],
+  "author": "nikolav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikolav/git-demo/issues"
+  },
+  "homepage": "https://github.com/nikolav/git-demo#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nikolav-q": "^1.0.4"
+  }
+}
